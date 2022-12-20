@@ -1,0 +1,11 @@
+{
+  "token": "Your token",
+
+  "owner": {
+    "id": "Your discord ID"
+  },
+
+  "client": {
+    "id": "Bot ID"
+  }
+}
